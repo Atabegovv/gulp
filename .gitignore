@@ -1,0 +1,15 @@
+.DS_Store
+.AppleDouble
+.LSOverride
+.vs
+.idea/
+.idea/*
+build/
+*.sublime*
+npm-debug.*
+npm-shrinkwrap.json
+package-lock.json
+node_modules/
+app/sourcemaps/
+app/css/*
+dist/
