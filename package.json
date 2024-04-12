@@ -43,5 +43,8 @@
     "scrollreveal": "^4.0.9",
     "slick-carousel": "^1.8.1",
     "swiper": "^9.0.2"
+  },
+  "dependencies": {
+    "prettier": "^3.2.5"
   }
 }
